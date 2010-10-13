@@ -13,10 +13,10 @@ var
 	},
 
 	verbs = {
-		"GET"    : [ "get"  , "retrieve" ],
-		"POST"   : [ "post" , "create"   ],
-		"PUT"    : [ "put"  , "update"   ],
-		"DELETE" : [ "del"  , "delete"   ]
+		"GET"    : [ "get"  , "read"   ],
+		"POST"   : [ "post" , "create" ],
+		"PUT"    : [ "put"  , "update" ],
+		"DELETE" : [ "del"  , "delete" ]
 	},
 
 	$rest = $.rest = function (url, ext, jsonp) {

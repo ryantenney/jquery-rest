@@ -1,10 +1,10 @@
 /*
 
 # jQuery.rest API in 10 seconds or less:
-$.rest.get,  $.rest.retrieve, $.rest.prototype.get,  $.rest.prototype.retrieve
-$.rest.post, $.rest.create,   $.rest.prototype.post, $.rest.prototype.create
-$.rest.put,  $.rest.update,   $.rest.prototype.put,  $.rest.prototype.update
-$.rest.del,  $.rest.delete,   $.rest.prototype.del,  $.rest.prototype.delete
+$.rest.get,  $.rest.read,   $.rest.prototype.get,  $.rest.prototype.read
+$.rest.post, $.rest.create, $.rest.prototype.post, $.rest.prototype.create
+$.rest.put,  $.rest.update, $.rest.prototype.put,  $.rest.prototype.update
+$.rest.del,  $.rest.delete, $.rest.prototype.del,  $.rest.prototype.delete
 
 */
 
